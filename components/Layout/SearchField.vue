@@ -102,7 +102,7 @@ export default Vue.extend({
   name: "SearchField",
   data() {
     return {
-      panel: true
+      panel: false
       , searchQuery: null
     }
   }
