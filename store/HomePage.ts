@@ -15,10 +15,10 @@ export const state = () => ({
       name: 'ساعت هوشمند',
       list: [
         {product: 'موبایل', list: ['samsung', 'huawei', 'apple', 'sony', 'lg', 'nokia']},
-        {product: 'تبلت', list: ['samsung', 'lenovo', 'acer', 'htc', 'alcatel', 'nokia']},
-        {product: 'ساعت هوشمند', list: ['samsung', 'huawei', 'apple', 'sony', 'lg', 'nokia']},
+        {product: 'تبلت', list: ['سامسونگ', 'هواوی', 'اپل', 'سونی', 'ال جی', 'نوکیا']},
+        {product: 'ساعت هوشمند', list: ['سامسونگ', 'هواوی', 'اپل', 'سونی', 'ال جی', 'نوکیا']},
         {product: 'موبایل', list: ['samsung', 'huawei', 'apple', 'sony', 'lg', 'nokia']},
-        {product: 'باتری قلمی', list: ['osel', 'onix', 'dewoo', 'DBK', 'sony', 'hyundai']},
+        {product: 'باتری قلمی', list: ['اوسل', 'اونیکس', 'دوو', 'دی بی کی', 'سونی', 'هیوندای']},
       ]
     },
     {
@@ -44,11 +44,11 @@ export const state = () => ({
     {
       name: 'نقد و بررسی',
       list: [
-        {product: 'موبایل', list: ['samsung', 'huawei', 'apple', 'sony', 'lg', 'nokia']},
+        {product: 'موبایل', list: ['سامسونگ', 'هواوی', 'اپل', 'سونی', 'ال جی', 'نوکیا']},
         {product: 'تبلت', list: ['samsung', 'lenovo', 'acer', 'htc', 'alcatel', 'nokia']},
-        {product: 'ساعت هوشمند', list: ['samsung', 'huawei', 'apple', 'sony', 'lg', 'nokia']},
+        {product: 'ساعت هوشمند', list: ['سامسونگ', 'هواوی', 'اپل', 'سونی', 'ال جی', 'نوکیا']},
         {product: 'موبایل', list: ['samsung', 'huawei', 'apple', 'sony', 'lg', 'nokia']},
-        {product: 'باتری قلمی', list: ['osel', 'onix', 'dewoo', 'DBK', 'sony', 'hyundai']},
+        {product: 'باتری قلمی', list: ['اوسل', 'اونیکس', 'دوو', 'دی بی کی', 'سونی', 'هیوندای']},
       ]
     },
     {
@@ -56,9 +56,9 @@ export const state = () => ({
       list: [
         {product: 'موبایل', list: ['samsung', 'huawei', 'apple', 'sony', 'lg', 'nokia']},
         {product: 'تبلت', list: ['samsung', 'lenovo', 'acer', 'htc', 'alcatel', 'nokia']},
-        {product: 'ساعت هوشمند', list: ['samsung', 'huawei', 'apple', 'sony', 'lg', 'nokia']},
+        {product: 'ساعت هوشمند', list: ['سامسونگ', 'هواوی', 'اپل', 'سونی', 'ال جی', 'نوکیا']},
         {product: 'موبایل', list: ['samsung', 'huawei', 'apple', 'sony', 'lg', 'nokia']},
-        {product: 'باتری قلمی', list: ['osel', 'onix', 'dewoo', 'DBK', 'sony', 'hyundai']},
+        {product: 'باتری قلمی', list: ['اوسل', 'اونیکس', 'دوو', 'دی بی کی', 'سونی', 'هیوندای']},
       ]
     },
   ] as any
